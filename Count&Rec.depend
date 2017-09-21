@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505957983 source:c:\users\joão paulo theodoro\desktop\nova pasta\count&rec\main.c
+	<stdio.h>
+	<stdlib.h>
+
